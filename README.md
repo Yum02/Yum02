@@ -1,5 +1,6 @@
-<div align=center><h1>🐤My Language🐤</h1></div>
+<div align=center><h1>📕My skills📕</h1></div>
 <div align=center>
+  <h1>🐤Language🐤</h1>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
