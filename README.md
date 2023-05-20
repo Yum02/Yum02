@@ -1,1 +1,1 @@
-<img src="https://img.shields.io/badge/python-yellow?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/python-9cf?style=flat&logo=Python&logoColor=FFFFFF"/>
