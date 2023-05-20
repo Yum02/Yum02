@@ -9,4 +9,5 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yum02&show_icons=true&theme=swift">
+  <img src="https://velog-readme-stats.vercel.app/api?name=somm&color=dark(https://velog.io/@Yum02)">
 </div>
